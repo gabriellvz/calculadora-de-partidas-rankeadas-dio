@@ -48,4 +48,4 @@ function calcularSaldoDeRanks(vitorias, derrotas) {
 
     
 }
-let resultado = calcularSaldoDeRanks (50 , 0)
+let resultado = calcularSaldoDeRanks (50 , 30)
